@@ -5,6 +5,7 @@ package com.bridgelabz;
       2. Declare variables for each primitive data type: byte, short, int,long, float, double, char, boolean.
       3. Print the default values of each variable.
       4. End
+      
  */
 
 public class DefaultValues {
